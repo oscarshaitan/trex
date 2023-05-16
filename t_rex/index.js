@@ -135,7 +135,7 @@
      */
     Runner.defaultDimensions = {
         WIDTH: DEFAULT_WIDTH,
-        HEIGHT: 350
+        HEIGHT: 150
     };
 
 

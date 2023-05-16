@@ -2247,7 +2247,7 @@
         this.spritePos = spritePos;
         this.canvas = canvas;
         this.canvasCtx = canvas.getContext('2d');
-        this.xPos = containerWidth - 50;
+        this.xPos = containerWidth *1.5;
         this.yPos = 30;
         this.currentPhase = 0;
         this.opacity = 0;
